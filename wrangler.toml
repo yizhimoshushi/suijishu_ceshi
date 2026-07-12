@@ -1,0 +1,7 @@
+name = "suijishu"
+compatibility_date = "2026-07-11"
+account_id = "cfb0846bd8ff2b142a9dd9c72ce8cd1c"
+main = "./src/index.js"
+
+[site]
+bucket = "./public"
